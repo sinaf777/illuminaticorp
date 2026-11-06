@@ -349,8 +349,7 @@ function DashboardView({ onSignOut }: { onSignOut: () => void }) {
                   aria-hidden="true"
                 />
                 <p className="text-sm text-stone-700">
-                  The membership office will contact you with the date and details
-                  of the sacrifice payment of <b>4666 Birr</b> that will be needed from you.
+                  The membership office will contact you with the date and details.
                 </p>
               </li>
               <li className="flex items-start gap-3">
