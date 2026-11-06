@@ -56,7 +56,7 @@ const ONBOARDING_STEPS: OnboardingStep[] = [
   },
   {
     title: 'Membership registration',
-    description: 'Registration completed successfully.',
+    description: '250 dollar payment required but 50% 125  dollar will be covered by the orginization .',
     status: 'current',
     weight: 26,
   },
